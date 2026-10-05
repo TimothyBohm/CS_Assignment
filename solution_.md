@@ -1,6 +1,6 @@
-#1This is my assignment:
-Student ID: 17068061
-Name: Timothy Bohm
+This is my assignment: \n
+Student ID: 17068061 \n
+Name: Timothy Bohm \n
 
 Paper titles
 MCC Van Dyke et al. (2019): The Rise of Coccidioides: Forces Against the Dust Devil Unleashed.
